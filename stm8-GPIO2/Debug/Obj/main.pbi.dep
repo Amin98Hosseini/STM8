@@ -1,0 +1,3 @@
+main.pbi: C:\Users\Lenovo\Desktop\stm8-test\main.c \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\iostm8s003f3.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc/io_macros.h
