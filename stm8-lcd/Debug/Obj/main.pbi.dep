@@ -1,0 +1,6 @@
+main.pbi: C:\Users\Lenovo\Desktop\stm8-lcd\main.c \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\iostm8s003k3.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc/io_macros.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h \
+  C:\Users\Lenovo\Desktop\stm8-lcd/lcd.h \
+  C:\Users\Lenovo\Desktop\stm8-lcd/delay.h

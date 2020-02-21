@@ -1,0 +1,5 @@
+lcd.pbi: C:\Users\Lenovo\Desktop\stm8-lcd\lcd.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\io_macros.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\iostm8s003F3.h \
+  C:\Users\Lenovo\Desktop\stm8-lcd\lcd.c
